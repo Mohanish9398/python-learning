@@ -1,6 +1,6 @@
 # Python Learning
 
-This repository contains my Python learning journey.
+This repository documents my Python learning journey, including notes, exercises, and hands-on projects completed day by day.
 
 ## Progress
 
